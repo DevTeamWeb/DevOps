@@ -4,6 +4,4 @@ Repositório da disciplina DevOps
 
 
 
-Nova linha 1
-
-Nova linha 2
+Entregue primeira solicitação de execícios. Arquivo editado só html.
